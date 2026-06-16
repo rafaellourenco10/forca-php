@@ -16,3 +16,6 @@ A principal diferença desta versão é que o navegador do usuário é "cego". E
 ## 📦 Entregas de Valor (Versionamento Semântico)
 
 - **v0.1.0**: Estrutura base (HTML/CSS adaptado para formulários POST) e documentação.
+
+- **v1.0.0**: Release Principal (MVP). Lógica de jogo totalmente funcional em PHP. Utilização de `$_SESSION` para manter o estado (vidas, letras tentadas, palavra sorteada) de forma segura no servidor entre requisições POST. Implementado controle de fluxo e formulários dinâmicos.
+
